@@ -2,4 +2,6 @@
 my portfolio
 
 
-![Code wars](https://abdullahidev.netlify.app/)
+![Portfolio](https://abdullahidev.netlify.app/)
+
+<img src="images/portfolio.png" align="center" width="40%"/>
