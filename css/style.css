@@ -722,7 +722,7 @@ header.mobile-header-2 .site-logo img {
 }
 
 .desktop-header-3 {
-  background: #f9f9ff;
+  background: #FFFFFF;
   padding: 20px 0;
   border-bottom: solid 1px rgba(255, 255, 255, 0.1);
 }
@@ -890,6 +890,7 @@ section.home.light .social-icons li a:hover {
   top: 0;
   height: 100%;
   width: 100%;
+  
 }
 .parallax .layer {
   position: absolute;
@@ -1935,12 +1936,25 @@ body.dark footer.footer {
 }
 
 /* === Helper === */
+
+.skills {
+  margin-top: 10px;
+  width: 90%;
+  padding-left: 30px;
+  border-radius: 20px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  background: #fff;
+
+}
+
 .rounded {
   border-radius: 20px !important;
 }
 
 .bg-white {
   background: #fff;
+  width: 110%;
 }
 
 .shadow-dark,
